@@ -87,7 +87,7 @@ public class Main {
         String[] answerround3 = {"RUN-DMC.", "Skinny Jeans.", "G-Unit."
                 , "The Dogg Pound."};
 
-        System.out.println("What's the name of 50 Cent's crew which included Lloyd Banks, Young Buck and Tony Yayo and released the album 'Beg For Mercy' in 2003?");
+        System.out.println("Round 3: What's the name of 50 Cent's crew which included Lloyd Banks, Young Buck and Tony Yayo and released the album 'Beg For Mercy' in 2003?");
         System.out.println("1. RUN-DMC.");
         System.out.println("2. Skinny Jeans.");
         System.out.println("3. G-Unit.");
@@ -97,7 +97,7 @@ public class Main {
         userinput = input.nextInt();
 
         if(userinput == 3){
-            System.out.println("Your answer was correct! "+ "**" +answerround3[1]+"**");
+            System.out.println("Your answer was correct! "+ "**" +answerround3[3]+"**");
                round4();
         }
 
@@ -117,7 +117,7 @@ public class Main {
         String[] answerround4 = {"Takeoff.", "Offset.", "Quavo."
                 , "None."};
 
-        System.out.println("Migos are made up of rappers Quavo, Offset and Takeoff, but which is married to Cardi B?");
+        System.out.println("Round 4: Migos are made up of rappers Quavo, Offset and Takeoff, but which is married to Cardi B?");
         System.out.println("1. Takeoff.");
         System.out.println("2. Offset.");
         System.out.println("3. Quavo.");
@@ -127,7 +127,7 @@ public class Main {
         userinput = input.nextInt();
 
         if(userinput == 2){
-            System.out.println("Your answer was correct! "+ "**" +answerround4[1]+"**");
+            System.out.println("Your answer was correct! "+ "**" +answerround4[2]+"**");
                round5();
         }
 
@@ -157,7 +157,7 @@ public class Main {
         userinput = input.nextInt();
 
         if(userinput == 2){
-            System.out.println("Your answer was correct! "+ "**" +answerround5[1]+"**");
+            System.out.println("Your answer was correct! "+ "**" +answerround5[2]+"**");
                round6();
         }
 
@@ -187,7 +187,7 @@ public class Main {
         userinput = input.nextInt();
 
         if(userinput == 4){
-            System.out.println("Your answer was correct! "+ "**" +answerround6[1]+"**");
+            System.out.println("Your answer was correct! "+ "**" +answerround6[4]+"**");
               round7();
         }
 
